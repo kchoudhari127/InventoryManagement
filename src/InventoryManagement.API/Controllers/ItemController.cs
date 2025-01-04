@@ -1,5 +1,6 @@
 ﻿using InventoryManagement.Application.DTOs;
 using InventoryManagement.Application.Interfaces;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
@@ -7,6 +8,7 @@ namespace InventoryManagement.API.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+    [Authorize] // Apply authentication to all actions
     public class ItemController : ControllerBase
     {
         private readonly IItemService _itemService;
@@ -30,6 +32,7 @@ namespace InventoryManagement.API.Controllers
         }
 
         [HttpGet("{id}")]
+        [Authorize(Policy = "UserPolicy")]
         public async Task<IActionResult> GetItemById(int id)
         {
             var item = await _itemService.GetItemById(id);
@@ -40,12 +43,14 @@ namespace InventoryManagement.API.Controllers
             return Ok(item);
         }
         [HttpPost]
+        [Authorize(Policy = "AdminPolicy")]
         public async Task<IActionResult> AddItem([FromBody] ItemDto itemDto)
         {
             await _itemService.AddItem(itemDto);
             return CreatedAtAction(nameof(AddItem), new { id = itemDto.ItemId });
         }
         [HttpPut("{id}")]
+        [Authorize(Policy = "AdminPolicy")]
         public async Task<IActionResult> UpdateItem(int id, [FromBody] ItemDto itemDto)
         {
             if (id != itemDto.ItemId) return BadRequest();
@@ -53,6 +58,7 @@ namespace InventoryManagement.API.Controllers
             return NoContent();
         }
         [HttpDelete("{id}")]
+        [Authorize(Policy = "AdminPolicy")]
         public async Task<IActionResult> DetelteItem(int id)
         {
             var item = await _itemService.GetItemById(id);

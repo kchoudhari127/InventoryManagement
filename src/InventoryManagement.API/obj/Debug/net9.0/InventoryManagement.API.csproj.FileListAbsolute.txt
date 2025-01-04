@@ -163,3 +163,4 @@ D:\Projects\InventoryManagement\src\InventoryManagement.API\bin\Debug\net9.0\Inv
 D:\Projects\InventoryManagement\src\InventoryManagement.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
 D:\Projects\InventoryManagement\src\InventoryManagement.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 D:\Projects\InventoryManagement\src\InventoryManagement.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Projects\InventoryManagement\src\InventoryManagement.API\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
