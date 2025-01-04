@@ -1,0 +1,12 @@
+D:\Projects\InventoryManagement\src\InventoryManagement.Domain\bin\Debug\net9.0\InventoryManagement.Domain.deps.json
+D:\Projects\InventoryManagement\src\InventoryManagement.Domain\bin\Debug\net9.0\InventoryManagement.Domain.dll
+D:\Projects\InventoryManagement\src\InventoryManagement.Domain\bin\Debug\net9.0\InventoryManagement.Domain.pdb
+D:\Projects\InventoryManagement\src\InventoryManagement.Domain\obj\Debug\net9.0\InventoryManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\InventoryManagement\src\InventoryManagement.Domain\obj\Debug\net9.0\InventoryManagement.Domain.AssemblyInfoInputs.cache
+D:\Projects\InventoryManagement\src\InventoryManagement.Domain\obj\Debug\net9.0\InventoryManagement.Domain.AssemblyInfo.cs
+D:\Projects\InventoryManagement\src\InventoryManagement.Domain\obj\Debug\net9.0\InventoryManagement.Domain.csproj.CoreCompileInputs.cache
+D:\Projects\InventoryManagement\src\InventoryManagement.Domain\obj\Debug\net9.0\InventoryManagement.Domain.sourcelink.json
+D:\Projects\InventoryManagement\src\InventoryManagement.Domain\obj\Debug\net9.0\InventoryManagement.Domain.dll
+D:\Projects\InventoryManagement\src\InventoryManagement.Domain\obj\Debug\net9.0\refint\InventoryManagement.Domain.dll
+D:\Projects\InventoryManagement\src\InventoryManagement.Domain\obj\Debug\net9.0\InventoryManagement.Domain.pdb
+D:\Projects\InventoryManagement\src\InventoryManagement.Domain\obj\Debug\net9.0\ref\InventoryManagement.Domain.dll

@@ -1,0 +1,294 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\InventoryManagement\\src\\InventoryManagement.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E4A87FA-05C7-4F64-9218-91182AD1F4B7}|InventoryManagement.API.csproj|d:\\projects\\inventorymanagement\\src\\inventorymanagement.api\\controllers\\itemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E4A87FA-05C7-4F64-9218-91182AD1F4B7}|InventoryManagement.API.csproj|solutionrelative:controllers\\itemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E4A87FA-05C7-4F64-9218-91182AD1F4B7}|InventoryManagement.API.csproj|d:\\projects\\inventorymanagement\\src\\inventorymanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E4A87FA-05C7-4F64-9218-91182AD1F4B7}|InventoryManagement.API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E4A87FA-05C7-4F64-9218-91182AD1F4B7}|InventoryManagement.API.csproj|d:\\projects\\inventorymanagement\\src\\inventorymanagement.api\\inventorymanagement.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5E4A87FA-05C7-4F64-9218-91182AD1F4B7}|InventoryManagement.API.csproj|solutionrelative:inventorymanagement.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1188E098-4967-4611-91FF-ED9B28624E3D}|..\\InventoryManagement.Application\\InventoryManagement.Application.csproj|d:\\projects\\inventorymanagement\\src\\inventorymanagement.application\\services\\itemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2E3E7FF-C7ED-460F-B9B3-376D9077EB8F}|..\\InventoryManagement.Infrastructure\\InventoryManagement.Infrastructure.csproj|d:\\projects\\inventorymanagement\\src\\inventorymanagement.infrastructure\\repositories\\itemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FE27638-1F37-4857-8709-380AF4B9DDA1}|..\\InventoryManagement.Domain\\InventoryManagement.Domain.csproj|d:\\projects\\inventorymanagement\\src\\inventorymanagement.domain\\interfaces\\iitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1188E098-4967-4611-91FF-ED9B28624E3D}|..\\InventoryManagement.Application\\InventoryManagement.Application.csproj|d:\\projects\\inventorymanagement\\src\\inventorymanagement.application\\interfaces\\iitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1188E098-4967-4611-91FF-ED9B28624E3D}|..\\InventoryManagement.Application\\InventoryManagement.Application.csproj|d:\\projects\\inventorymanagement\\src\\inventorymanagement.application\\dtos\\itemresponcedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FE27638-1F37-4857-8709-380AF4B9DDA1}|..\\InventoryManagement.Domain\\InventoryManagement.Domain.csproj|d:\\projects\\inventorymanagement\\src\\inventorymanagement.domain\\entities\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2E3E7FF-C7ED-460F-B9B3-376D9077EB8F}|..\\InventoryManagement.Infrastructure\\InventoryManagement.Infrastructure.csproj|d:\\projects\\inventorymanagement\\src\\inventorymanagement.infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FE27638-1F37-4857-8709-380AF4B9DDA1}|..\\InventoryManagement.Domain\\InventoryManagement.Domain.csproj|d:\\projects\\inventorymanagement\\src\\inventorymanagement.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2E3E7FF-C7ED-460F-B9B3-376D9077EB8F}|..\\InventoryManagement.Infrastructure\\InventoryManagement.Infrastructure.csproj|d:\\projects\\inventorymanagement\\src\\inventorymanagement.infrastructure\\migrations\\20250104125818_inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2E3E7FF-C7ED-460F-B9B3-376D9077EB8F}|..\\InventoryManagement.Infrastructure\\InventoryManagement.Infrastructure.csproj|d:\\projects\\inventorymanagement\\src\\inventorymanagement.infrastructure\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E4A87FA-05C7-4F64-9218-91182AD1F4B7}|InventoryManagement.API.csproj|d:\\projects\\inventorymanagement\\src\\inventorymanagement.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5E4A87FA-05C7-4F64-9218-91182AD1F4B7}|InventoryManagement.API.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2E3E7FF-C7ED-460F-B9B3-376D9077EB8F}|..\\InventoryManagement.Infrastructure\\InventoryManagement.Infrastructure.csproj|d:\\projects\\inventorymanagement\\src\\inventorymanagement.infrastructure\\inventorymanagement.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FE27638-1F37-4857-8709-380AF4B9DDA1}|..\\InventoryManagement.Domain\\InventoryManagement.Domain.csproj|d:\\projects\\inventorymanagement\\src\\inventorymanagement.domain\\inventorymanagement.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 234,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Projects\\InventoryManagement\\src\\InventoryManagement.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "..\\InventoryManagement.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Projects\\InventoryManagement\\src\\InventoryManagement.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "..\\InventoryManagement.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T11:34:13.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InventoryManagement.API.csproj",
+              "DocumentMoniker": "D:\\Projects\\InventoryManagement\\src\\InventoryManagement.API\\InventoryManagement.API.csproj",
+              "RelativeDocumentMoniker": "InventoryManagement.API.csproj",
+              "ToolTip": "D:\\Projects\\InventoryManagement\\src\\InventoryManagement.API\\InventoryManagement.API.csproj",
+              "RelativeToolTip": "InventoryManagement.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-04T11:30:23.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IItemRepository.cs",
+              "DocumentMoniker": "D:\\Projects\\InventoryManagement\\src\\InventoryManagement.Domain\\Interfaces\\IItemRepository.cs",
+              "RelativeDocumentMoniker": "..\\InventoryManagement.Domain\\Interfaces\\IItemRepository.cs",
+              "ToolTip": "D:\\Projects\\InventoryManagement\\src\\InventoryManagement.Domain\\Interfaces\\IItemRepository.cs",
+              "RelativeToolTip": "..\\InventoryManagement.Domain\\Interfaces\\IItemRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T15:34:47.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ItemService.cs",
+              "DocumentMoniker": "D:\\Projects\\InventoryManagement\\src\\InventoryManagement.Application\\Services\\ItemService.cs",
+              "RelativeDocumentMoniker": "..\\InventoryManagement.Application\\Services\\ItemService.cs",
+              "ToolTip": "D:\\Projects\\InventoryManagement\\src\\InventoryManagement.Application\\Services\\ItemService.cs",
+              "RelativeToolTip": "..\\InventoryManagement.Application\\Services\\ItemService.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAAACkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T16:27:25.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ItemController.cs",
+              "DocumentMoniker": "D:\\Projects\\InventoryManagement\\src\\InventoryManagement.API\\Controllers\\ItemController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ItemController.cs",
+              "ToolTip": "D:\\Projects\\InventoryManagement\\src\\InventoryManagement.API\\Controllers\\ItemController.cs",
+              "RelativeToolTip": "Controllers\\ItemController.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAcwDsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T17:15:36.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ItemResponceDto.cs",
+              "DocumentMoniker": "D:\\Projects\\InventoryManagement\\src\\InventoryManagement.Application\\DTOs\\ItemResponceDto.cs",
+              "RelativeDocumentMoniker": "..\\InventoryManagement.Application\\DTOs\\ItemResponceDto.cs",
+              "ToolTip": "D:\\Projects\\InventoryManagement\\src\\InventoryManagement.Application\\DTOs\\ItemResponceDto.cs",
+              "RelativeToolTip": "..\\InventoryManagement.Application\\DTOs\\ItemResponceDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T17:26:12.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\InventoryManagement\\src\\InventoryManagement.API\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Projects\\InventoryManagement\\src\\InventoryManagement.API\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T12:50:12.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IItemService.cs",
+              "DocumentMoniker": "D:\\Projects\\InventoryManagement\\src\\InventoryManagement.Application\\Interfaces\\IItemService.cs",
+              "RelativeDocumentMoniker": "..\\InventoryManagement.Application\\Interfaces\\IItemService.cs",
+              "ToolTip": "D:\\Projects\\InventoryManagement\\src\\InventoryManagement.Application\\Interfaces\\IItemService.cs",
+              "RelativeToolTip": "..\\InventoryManagement.Application\\Interfaces\\IItemService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAYwAkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T17:12:12.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Item.cs",
+              "DocumentMoniker": "D:\\Projects\\InventoryManagement\\src\\InventoryManagement.Domain\\Entities\\Item.cs",
+              "RelativeDocumentMoniker": "..\\InventoryManagement.Domain\\Entities\\Item.cs",
+              "ToolTip": "D:\\Projects\\InventoryManagement\\src\\InventoryManagement.Domain\\Entities\\Item.cs",
+              "RelativeToolTip": "..\\InventoryManagement.Domain\\Entities\\Item.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T11:15:16.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ItemRepository.cs",
+              "DocumentMoniker": "D:\\Projects\\InventoryManagement\\src\\InventoryManagement.Infrastructure\\Repositories\\ItemRepository.cs",
+              "RelativeDocumentMoniker": "..\\InventoryManagement.Infrastructure\\Repositories\\ItemRepository.cs",
+              "ToolTip": "D:\\Projects\\InventoryManagement\\src\\InventoryManagement.Infrastructure\\Repositories\\ItemRepository.cs",
+              "RelativeToolTip": "..\\InventoryManagement.Infrastructure\\Repositories\\ItemRepository.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA2wBgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T14:16:41.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Projects\\InventoryManagement\\src\\InventoryManagement.Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "..\\InventoryManagement.Domain\\Entities\\User.cs",
+              "ToolTip": "D:\\Projects\\InventoryManagement\\src\\InventoryManagement.Domain\\Entities\\User.cs",
+              "RelativeToolTip": "..\\InventoryManagement.Domain\\Entities\\User.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAIAwwAsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T13:03:03.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\Projects\\InventoryManagement\\src\\InventoryManagement.Infrastructure\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "..\\InventoryManagement.Infrastructure\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\Projects\\InventoryManagement\\src\\InventoryManagement.Infrastructure\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "..\\InventoryManagement.Infrastructure\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T13:37:30.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20250104125818_Inventory.cs",
+              "DocumentMoniker": "D:\\Projects\\InventoryManagement\\src\\InventoryManagement.Infrastructure\\Migrations\\20250104125818_Inventory.cs",
+              "RelativeDocumentMoniker": "..\\InventoryManagement.Infrastructure\\Migrations\\20250104125818_Inventory.cs",
+              "ToolTip": "D:\\Projects\\InventoryManagement\\src\\InventoryManagement.Infrastructure\\Migrations\\20250104125818_Inventory.cs",
+              "RelativeToolTip": "..\\InventoryManagement.Infrastructure\\Migrations\\20250104125818_Inventory.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T12:58:19.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Projects\\InventoryManagement\\src\\InventoryManagement.API\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Projects\\InventoryManagement\\src\\InventoryManagement.API\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-04T12:29:04.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "InventoryManagement.Infrastructure.csproj",
+              "DocumentMoniker": "D:\\Projects\\InventoryManagement\\src\\InventoryManagement.Infrastructure\\InventoryManagement.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "..\\InventoryManagement.Infrastructure\\InventoryManagement.Infrastructure.csproj",
+              "ToolTip": "D:\\Projects\\InventoryManagement\\src\\InventoryManagement.Infrastructure\\InventoryManagement.Infrastructure.csproj",
+              "RelativeToolTip": "..\\InventoryManagement.Infrastructure\\InventoryManagement.Infrastructure.csproj",
+              "ViewState": "AgIAAAcAAAAAAAAAAABBwBMAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-04T11:13:48.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "InventoryManagement.Domain.csproj",
+              "DocumentMoniker": "D:\\Projects\\InventoryManagement\\src\\InventoryManagement.Domain\\InventoryManagement.Domain.csproj",
+              "RelativeDocumentMoniker": "..\\InventoryManagement.Domain\\InventoryManagement.Domain.csproj",
+              "ToolTip": "D:\\Projects\\InventoryManagement\\src\\InventoryManagement.Domain\\InventoryManagement.Domain.csproj",
+              "RelativeToolTip": "..\\InventoryManagement.Domain\\InventoryManagement.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-04T11:11:21.298Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 104,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

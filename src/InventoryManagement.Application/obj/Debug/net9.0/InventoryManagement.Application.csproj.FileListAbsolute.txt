@@ -1,0 +1,16 @@
+D:\Projects\InventoryManagement\src\InventoryManagement.Application\bin\Debug\net9.0\InventoryManagement.Application.deps.json
+D:\Projects\InventoryManagement\src\InventoryManagement.Application\bin\Debug\net9.0\InventoryManagement.Application.dll
+D:\Projects\InventoryManagement\src\InventoryManagement.Application\bin\Debug\net9.0\InventoryManagement.Application.pdb
+D:\Projects\InventoryManagement\src\InventoryManagement.Application\obj\Debug\net9.0\InventoryManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\InventoryManagement\src\InventoryManagement.Application\obj\Debug\net9.0\InventoryManagement.Application.AssemblyInfoInputs.cache
+D:\Projects\InventoryManagement\src\InventoryManagement.Application\obj\Debug\net9.0\InventoryManagement.Application.AssemblyInfo.cs
+D:\Projects\InventoryManagement\src\InventoryManagement.Application\obj\Debug\net9.0\InventoryManagement.Application.csproj.CoreCompileInputs.cache
+D:\Projects\InventoryManagement\src\InventoryManagement.Application\obj\Debug\net9.0\InventoryManagement.Application.sourcelink.json
+D:\Projects\InventoryManagement\src\InventoryManagement.Application\obj\Debug\net9.0\InventoryManagement.Application.dll
+D:\Projects\InventoryManagement\src\InventoryManagement.Application\obj\Debug\net9.0\refint\InventoryManagement.Application.dll
+D:\Projects\InventoryManagement\src\InventoryManagement.Application\obj\Debug\net9.0\InventoryManagement.Application.pdb
+D:\Projects\InventoryManagement\src\InventoryManagement.Application\obj\Debug\net9.0\ref\InventoryManagement.Application.dll
+D:\Projects\InventoryManagement\src\InventoryManagement.Application\obj\Debug\net9.0\InventoryManagement.Application.csproj.AssemblyReference.cache
+D:\Projects\InventoryManagement\src\InventoryManagement.Application\bin\Debug\net9.0\InventoryManagement.Domain.dll
+D:\Projects\InventoryManagement\src\InventoryManagement.Application\bin\Debug\net9.0\InventoryManagement.Domain.pdb
+D:\Projects\InventoryManagement\src\InventoryManagement.Application\obj\Debug\net9.0\Inventor.0D5EB3FB.Up2Date
