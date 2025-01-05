@@ -26,7 +26,6 @@ namespace InventoryManagement.Infrastructure.Repositories
         {
             return await _context.Items.FindAsync(Id);
         }
-
         public async Task AddItem(Item item)
         {
             await _context.Items.AddAsync(item);

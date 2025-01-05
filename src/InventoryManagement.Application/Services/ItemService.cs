@@ -45,55 +45,104 @@ namespace InventoryManagement.Application.Services
 
         public async Task<ItemDto> GetItemById(int Id)
         {
-           var item = await _itemRepository.GetItemById(Id);
-            if(item is null)
+            _logger.LogInformation("Getting Item by Id: {ItemId}",Id);
+            try
             {
-                return null;
-            }
+                var item = await _itemRepository.GetItemById(Id);
+                if (item is null)
+                {
+                    return null;
+                }
 
-            return new ItemDto
+                return new ItemDto
+                {
+                    ItemId = item.ItemId,
+                    Name = item.Name,
+                    Description = item.Description,
+                    Quantity = item.Quantity,
+                    ReorderLevel = item.ReorderLevel
+                };
+            }
+            catch (Exception ex)
             {
-                ItemId = item.ItemId,
-                Name = item.Name,
-                Description = item.Description,
-                Quantity = item.Quantity,
-                ReorderLevel = item.ReorderLevel
-            };
+                _logger.LogError(ex, "Error occurred while getting item by Id: {ItemId}",Id);
+                throw;
+            }
         }
 
         public async Task AddItem(ItemDto itemDto)
         {
-            var item = new Item
+            _logger.LogInformation("Adding new item: {ItemName}",itemDto.Name);
+            try
             {
-                ItemId = itemDto.ItemId,
-                Name = itemDto.Name,
-                Description = itemDto.Description,
-                Quantity = itemDto.Quantity,
-                ReorderLevel = itemDto.ReorderLevel
-            };
-           await _itemRepository.AddItem(item);
+                var item = new Item
+                {
+                    ItemId = itemDto.ItemId,
+                    Name = itemDto.Name,
+
+
+                    Description = itemDto.Description,
+                    Quantity = itemDto.Quantity,
+                    ReorderLevel = itemDto.ReorderLevel
+                };
+                await _itemRepository.AddItem(item);
+            }
+            catch (Exception ex)
+            {
+                _logger.LogError(ex, "Error occurred while Adding item: {ItemName}", itemDto.Name);
+                throw;
+            }
         }
 
         public async Task UpdateItem(ItemDto itemDto)
         {
-            var item = new Item
+            _logger.LogInformation("Updating new item: {ItemName}", itemDto.Name);
+             try
             {
-                ItemId=itemDto.ItemId,
-                Name = itemDto.Name,
-                Description = itemDto.Description,
-                Quantity = itemDto.Quantity,
-                ReorderLevel = itemDto.ReorderLevel
-            };
-            await _itemRepository.UpdateItem(item);
+                 var item = new Item
+                 {
+                   ItemId=itemDto.ItemId,
+                   Name = itemDto.Name,
+                   Description = itemDto.Description,
+                   Quantity = itemDto.Quantity,
+                   ReorderLevel = itemDto.ReorderLevel
+                 };
+                await _itemRepository.UpdateItem(item);
+             }
+              catch (Exception ex)
+              {
+                _logger.LogError(ex, "Error occurred while Updating item: {ItemName}", itemDto.Name);
+                throw;
+              }
         }
         public async Task DeleteItem(int Id)
         {
-             await _itemRepository.DeleteItem(Id);
+            _logger.LogInformation("Deleting new item: {ItemId}", Id);
+            try
+            {
+                await _itemRepository.DeleteItem(Id);
+            }
+            catch (Exception ex)
+            {
+                _logger.LogError(ex, "Error occurred while Updating item: {ItemId}", Id);
+                throw;
+            }
         }
         public async Task<int> GetTotalItemCount()
         {
-            var item = await _itemRepository.GetItems();
-            return item.Count();
+            _logger.LogInformation("Getting Total Items Count ");
+            try
+            {
+                var item = await _itemRepository.GetItems();
+                return item.Count();
+            }
+            catch (Exception ex)
+            {
+                _logger.LogError(ex, "Err" +
+                    "" +
+                    "or occurred while Getting Total Items Count");
+                throw;
+            }
         }
     }
 }
