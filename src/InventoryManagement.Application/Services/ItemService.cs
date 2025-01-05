@@ -2,6 +2,7 @@
 using InventoryManagement.Application.Interfaces;
 using InventoryManagement.Domain.Entities;
 using InventoryManagement.Domain.Interfaces;
+using Microsoft.Extensions.Logging;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -13,22 +14,33 @@ namespace InventoryManagement.Application.Services
     public class ItemService: IItemService
     {
         private readonly IItemRepository _itemRepository;
-        public ItemService(IItemRepository itemRepository) 
+        private readonly ILogger<ItemService> _logger;
+        public ItemService(IItemRepository itemRepository, ILogger<ItemService> logger) 
         {
           _itemRepository = itemRepository;
+            _logger = logger;
         }
 
         public async Task<IEnumerable<ItemDto>> GetItems()
         {
-            var item = await _itemRepository.GetItems();
-            return item.Select(item => new ItemDto
+            _logger.LogInformation("Getting All Items");
+            try
             {
-                ItemId = item.ItemId,
-                Name = item.Name,
-                Description = item.Description,
-                Quantity = item.Quantity,
-                ReorderLevel = item.ReorderLevel
-            }).ToList();
+                var item = await _itemRepository.GetItems();
+                return item.Select(item => new ItemDto
+                {
+                    ItemId = item.ItemId,
+                    Name = item.Name,
+                    Description = item.Description,
+                    Quantity = item.Quantity,
+                    ReorderLevel = item.ReorderLevel
+                }).ToList();
+            }
+            catch (Exception ex)
+            {
+                _logger.LogError(ex,"Error occurred while getting items");
+                throw;
+            }
         }
 
         public async Task<ItemDto> GetItemById(int Id)

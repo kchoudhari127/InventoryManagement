@@ -164,3 +164,12 @@ D:\Projects\InventoryManagement\src\InventoryManagement.API\bin\Debug\net9.0\Swa
 D:\Projects\InventoryManagement\src\InventoryManagement.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 D:\Projects\InventoryManagement\src\InventoryManagement.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 D:\Projects\InventoryManagement\src\InventoryManagement.API\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Projects\InventoryManagement\src\InventoryManagement.API\bin\Debug\net9.0\Serilog.dll
+D:\Projects\InventoryManagement\src\InventoryManagement.API\bin\Debug\net9.0\Serilog.AspNetCore.dll
+D:\Projects\InventoryManagement\src\InventoryManagement.API\bin\Debug\net9.0\Serilog.Extensions.Hosting.dll
+D:\Projects\InventoryManagement\src\InventoryManagement.API\bin\Debug\net9.0\Serilog.Extensions.Logging.dll
+D:\Projects\InventoryManagement\src\InventoryManagement.API\bin\Debug\net9.0\Serilog.Formatting.Compact.dll
+D:\Projects\InventoryManagement\src\InventoryManagement.API\bin\Debug\net9.0\Serilog.Settings.Configuration.dll
+D:\Projects\InventoryManagement\src\InventoryManagement.API\bin\Debug\net9.0\Serilog.Sinks.Console.dll
+D:\Projects\InventoryManagement\src\InventoryManagement.API\bin\Debug\net9.0\Serilog.Sinks.Debug.dll
+D:\Projects\InventoryManagement\src\InventoryManagement.API\bin\Debug\net9.0\Serilog.Sinks.File.dll

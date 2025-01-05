@@ -10,3 +10,4 @@ D:\Projects\InventoryManagement\src\InventoryManagement.Domain\obj\Debug\net9.0\
 D:\Projects\InventoryManagement\src\InventoryManagement.Domain\obj\Debug\net9.0\refint\InventoryManagement.Domain.dll
 D:\Projects\InventoryManagement\src\InventoryManagement.Domain\obj\Debug\net9.0\InventoryManagement.Domain.pdb
 D:\Projects\InventoryManagement\src\InventoryManagement.Domain\obj\Debug\net9.0\ref\InventoryManagement.Domain.dll
+D:\Projects\InventoryManagement\src\InventoryManagement.Domain\obj\Debug\net9.0\InventoryManagement.Domain.csproj.AssemblyReference.cache
