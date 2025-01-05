@@ -16,3 +16,5 @@ D:\Projects\InventoryManagement\src\InventoryManagement.Infrastructure\obj\Debug
 D:\Projects\InventoryManagement\src\InventoryManagement.Infrastructure\obj\Debug\net9.0\InventoryManagement.Infrastructure.pdb
 D:\Projects\InventoryManagement\src\InventoryManagement.Infrastructure\obj\Debug\net9.0\InventoryManagement.Infrastructure.genruntimeconfig.cache
 D:\Projects\InventoryManagement\src\InventoryManagement.Infrastructure\obj\Debug\net9.0\ref\InventoryManagement.Infrastructure.dll
+D:\Projects\InventoryManagement\src\InventoryManagement.Infrastructure\bin\Debug\net9.0\xunit.abstractions.dll
+D:\Projects\InventoryManagement\src\InventoryManagement.Infrastructure\bin\Debug\net9.0\xunit.runner.visualstudio.testadapter.dll

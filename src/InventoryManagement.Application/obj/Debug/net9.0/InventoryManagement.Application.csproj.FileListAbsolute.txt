@@ -14,3 +14,7 @@ D:\Projects\InventoryManagement\src\InventoryManagement.Application\obj\Debug\ne
 D:\Projects\InventoryManagement\src\InventoryManagement.Application\bin\Debug\net9.0\InventoryManagement.Domain.dll
 D:\Projects\InventoryManagement\src\InventoryManagement.Application\bin\Debug\net9.0\InventoryManagement.Domain.pdb
 D:\Projects\InventoryManagement\src\InventoryManagement.Application\obj\Debug\net9.0\Inventor.0D5EB3FB.Up2Date
+D:\Projects\InventoryManagement\src\InventoryManagement.Application\bin\Debug\net9.0\xunit.abstractions.dll
+D:\Projects\InventoryManagement\src\InventoryManagement.Application\bin\Debug\net9.0\xunit.runner.visualstudio.testadapter.dll
+D:\Projects\InventoryManagement\src\InventoryManagement.Application\bin\Debug\net9.0\InventoryManagement.Application.runtimeconfig.json
+D:\Projects\InventoryManagement\src\InventoryManagement.Application\obj\Debug\net9.0\InventoryManagement.Application.genruntimeconfig.cache
